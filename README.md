@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Veer Narayan</span></h1>
+<h1 align="center">Hi , I'm <span style="color:#00C2FF;">Veer Narayan</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Full+Stack+Developer;AI%2FML+Learner;Open+Source+Contributor" />
@@ -43,15 +43,6 @@
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,firebase,linux" />
-
-</p>
-
----
 
 # 📊 GitHub Stats
 
@@ -64,6 +55,45 @@
 </p>
 
 ---
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql,mongodb,git,github,vscode,postman,supabase,gcp,azure,linux,discord" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/>
+
+</p>
 
 # 🔥 GitHub Streak
 
